@@ -1,6 +1,6 @@
 Data Download from NCSES Table Builder
 SOURCE: National Center for Science and Engineering Statistics, National Survey of College Graduates.
-Downloaded: Mon Nov 11 2024 13:30:54 GMT-0600 (Central Standard Time)
+Downloaded: Mon Nov 11 2024 16:02:16 GMT-0600 (Central Standard Time)
 
 Measures:
   Weighted Count
@@ -21,5 +21,8 @@ Filters:
     ALL
 
   Gender
+    ALL
+
+  Age group (5 year intv)
     ALL
 
