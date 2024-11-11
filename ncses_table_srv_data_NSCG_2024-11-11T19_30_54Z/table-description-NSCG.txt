@@ -1,6 +1,6 @@
 Data Download from NCSES Table Builder
 SOURCE: National Center for Science and Engineering Statistics, National Survey of College Graduates.
-Downloaded: Sun Nov 10 2024 18:38:01 GMT-0600 (Central Standard Time)
+Downloaded: Mon Nov 11 2024 13:30:54 GMT-0600 (Central Standard Time)
 
 Measures:
   Weighted Count
@@ -14,7 +14,8 @@ Filters:
     ALL
 
   Labor force status
-    ALL
+    Employed
+    Unemployed
 
   Race (2003-2021)
     ALL
