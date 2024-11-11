@@ -1,0 +1,24 @@
+Data Download from NCSES Table Builder
+SOURCE: National Center for Science and Engineering Statistics, National Survey of College Graduates.
+Downloaded: Sun Nov 10 2024 18:38:01 GMT-0600 (Central Standard Time)
+
+Measures:
+  Weighted Count
+
+Filters:
+  Year
+    2021
+    2019
+
+  Field of maj - most recent deg (major) (2003-2021)
+    ALL
+
+  Labor force status
+    ALL
+
+  Race (2003-2021)
+    ALL
+
+  Gender
+    ALL
+
